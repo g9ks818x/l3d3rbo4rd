@@ -1,0 +1,13 @@
+{
+  "name": "havre-leaderboard",
+  "version": "1.0.0",
+  "description": "Module leaderboard (messages + vocal) pour le bot Havre, en discord.js v14 avec Components V2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.0",
+    "dotenv": "^16.4.5"
+  }
+}
